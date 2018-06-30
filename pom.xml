@@ -10,12 +10,12 @@
 		<relativePath />
 	</parent>
 
-	<groupId>SpringBoot</groupId>
-	<artifactId>SpringBoot</artifactId>
+	<groupId>SpringBootLogin</groupId>
+	<artifactId>SpringBootLogin</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>SpringBoot</name>
+	<name>SpringBootLogin</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
