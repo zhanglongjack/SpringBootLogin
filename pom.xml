@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-<!-- 
-神马帐号
-yy-bh现代xs
-tianxia123
 
-xyy-tm世纪北大by
-zc123456789 
-
-jk-洛普斯生物zc
-jiayou123
- 
-sghztjjm-ngzc@163.com
-Pzoom400L
- -->
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
